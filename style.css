@@ -185,6 +185,11 @@ button:focus {
 }
 
 @media (max-width: 931px){
+    
+    body {
+    justify-content: center;
+    align-items: flex-start;
+}
     .main-container{
         flex-direction: column;
         justify-content: center;
